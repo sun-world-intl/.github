@@ -9,6 +9,7 @@ Sun World International is a global fruit variety development and licensing comp
 - [breeding-web](https://github.com/sun-world-intl/breeding-web)
 - [breeding-api](https://github.com/sun-world-intl/breeding-api)
 - [breeding-infra](https://github.com/sun-world-intl/breeding-infra)
+- [breeding-analytics](https://github.com/sun-world-intl/breeding-analytics)
 - [Confluence Docs]()
 
 
